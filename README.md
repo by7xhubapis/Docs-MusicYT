@@ -8,7 +8,7 @@
 
 **Exemplo**
 ```
-GET https://7xhub-api.shardweb.app/api/music/yt-search?q={query}&auth={auth_key}
+GET https://7xhub-apis.cloud/api/music/yt-search?q={query}&auth={auth_key}
 ```
 
 **Resposta (200)**
@@ -56,7 +56,7 @@ GET https://7xhub-api.shardweb.app/api/music/yt-search?q={query}&auth={auth_key}
 
 **Exemplo**
 ```
-GET https://7xhub-api.shardweb.app/api/music/yt-mp3?q={query}&auth={auth_key}
+GET https://7xhub-apis.cloud/api/music/yt-mp3?q={query}&auth={auth_key}
 ```
 
 **Resposta (200)**
@@ -73,7 +73,7 @@ GET https://7xhub-api.shardweb.app/api/music/yt-mp3?q={query}&auth={auth_key}
 
 **Exemplo**
 ```
-GET https://7xhub-api.shardweb.app/api/music/yt-mp4?q={query}&auth={auth_key}
+GET https://7xhub-apis.cloud/api/music/yt-mp4?q={query}&auth={auth_key}
 ```
 
 **Resposta (200)**
